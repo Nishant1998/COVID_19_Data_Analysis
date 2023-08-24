@@ -1,0 +1,2 @@
+echo complete_vaccination_generator
+python3 complete_vaccination_generator.py

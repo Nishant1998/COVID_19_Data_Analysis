@@ -1,0 +1,2 @@
+echo vaccinated_ratio_generator
+python3 vaccinated_ratio_generator.py

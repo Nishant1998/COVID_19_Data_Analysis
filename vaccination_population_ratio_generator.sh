@@ -1,0 +1,2 @@
+echo vaccination_population_ratio_generator
+python3 vaccination_population_ratio_generator.py

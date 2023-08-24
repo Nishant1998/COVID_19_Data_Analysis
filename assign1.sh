@@ -1,0 +1,9 @@
+bash neighbor_districts_modifier.sh
+bash edge_generator.sh
+bash case_generator.sh
+bash peaks_generator.sh
+bash vaccinated_count_generator.sh
+bash vaccination_population_ratio_generator.sh
+bash vaccine_type_ratio_generator.sh
+bash vaccinated_ratio_generator.sh
+bash complete_vaccination_generator.sh
