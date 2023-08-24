@@ -17,4 +17,4 @@
 ### How to run code
 'assign1.sh' is top-level script that runs the entire assignment. It run all the quetion in sequence.
 It can be run by
-'''bash assign1.sh'''
+```bash assign1.sh```
