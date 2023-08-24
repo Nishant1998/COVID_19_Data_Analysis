@@ -1,5 +1,4 @@
-# covid19_India_data_analyst
-## CS685: Data Mining Assignment
+# CS685: Data Mining Assignment COVID-19 Data Analysis
 
 ### Library needed to run assignment are.
 1. numpy
